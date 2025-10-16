@@ -1,8 +1,8 @@
 <!-- Bio and stats -->
 
 ## Hi there 👋, I'm Hellen!
-🧫 Microbiologist, immunologist sharing about my journey and learning bioinformatics<br/>
-🧬 Currently working unraveling host-pathogen interaction during TB infection and disease<br/>
+🧫 Microbiologist, immunologist sharing about my journey learning bioinformatics<br/>
+🧬 Currently working on unraveling host-pathogen interaction during TB infection and disease<br/>
 ⏳ I'm currently learning about bulk and single cell sequencing data analysis <br/>
 
 # 💻 Tech Stack:
